@@ -30,6 +30,7 @@ h3{
     position: absolute;
     right: 300px;
     top: 50px;
+    z-index: -1;
   
 }
 .donjioblak{
